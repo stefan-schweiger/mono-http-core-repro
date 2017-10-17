@@ -1,0 +1,13 @@
+Microsoft Visual Studio Solution File, Format Version 15.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProj", "TestProj.csproj", "{AF0CFFD9-3273-4927-81A4-EE9A29801B42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF0CFFD9-3273-4927-81A4-EE9A29801B42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF0CFFD9-3273-4927-81A4-EE9A29801B42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+EndGlobal
